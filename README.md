@@ -13,4 +13,6 @@ block
 + > *2nd*
 - >> ~~3rd~~
 
-[教學平台](https://elearning.nkust.edu.tw/mooc/index.php)
+
+[elearning](https://elearning.nkust.edu.tw/mooc/index.php)
+![NKUST](NKUST_Logo.svg.png)
