@@ -9,6 +9,8 @@
 big
 block
 ```
-1st
-> 2nd
->> 3rd
+* **1st**
++ > *2nd*
+- >> ~~3rd~~
+
+[教學平台](https://elearning.nkust.edu.tw/mooc/index.php)
