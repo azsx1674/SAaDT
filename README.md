@@ -1,6 +1,6 @@
 # SAaD TEAM 16
 
-專題名稱：order app
+專題名稱：Order APP
 
 ### 組員名單：
 |職位|學號|名字|
