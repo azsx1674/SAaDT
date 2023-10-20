@@ -40,7 +40,7 @@ gantt
 ```
      
 ## 柔道社的網頁 PERT圖
-![Pert](PERT圖.png)
+![Pert](PERT圖.png) 
 
 ### 溫馨提示:
 #### 如看不清圖片請點擊查看大圖
