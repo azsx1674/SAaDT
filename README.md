@@ -29,14 +29,14 @@ gantt
     收集資料     :a2, after a1  , 1d
     統整資料     :a3, after a2  , 1d
     section 網頁製作
-    界面製作     :a4, after a2  , 2d
-    輸入資料      :a5, after a3  , 1d
+    界面製作     :a4, after a3  , 3d
+    輸入資料      :a5, after a4  , 2d
     section 網頁測試並邀請人内測
-    測試網頁功能      :a6, after a3  , 2d
-    内測        :a7, after a4, 2d
-    修復bug      :a8, after a6, 1d
+    測試網頁功能      :a6, after a5  , 2d
+    内測        :a7, after a6, 5d
+    修復bug      :a8, after a7, 2d
     section 發佈網頁
-    正式發佈     :a9, after a7, 1d
+    正式發佈     :a9, after a8, 1d
 ```
      
 ## 柔道社的網頁 PERT圖
