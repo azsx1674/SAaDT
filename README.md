@@ -30,7 +30,7 @@ gantt
     統整資料     :a3, after a2  , 5d
     section 網頁製作
     界面製作     :a4, after a3  , 45d
-    輸入資料      :a5, after a4  , 2d
+    輸入資料      :a5, after a4  , 7d
     section 網頁測試並邀請人内測
     測試網頁功能      :a6, after a5  , 5d
     内測        :a7, after a6, 5d
