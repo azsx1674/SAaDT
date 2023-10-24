@@ -32,9 +32,9 @@ gantt
     界面製作     :a4, after a3  , 60d
     輸入資料      :a5, after a4  , 2d
     section 網頁測試並邀請人内測
-    測試網頁功能      :a6, after a5  , 2d
+    測試網頁功能      :a6, after a5  , 5d
     内測        :a7, after a6, 5d
-    修復bug      :a8, after a7, 2d
+    修復bug      :a8, after a7, 10d
     section 發佈網頁
     正式發佈     :a9, after a8, 1d
 ```
