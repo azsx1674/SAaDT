@@ -80,7 +80,7 @@ gantt
 ---
 
 ## 系統環境圖 (DFD)
-![DFD](系統環境圖(DFD).png)
+![DFD](系統環境圖 (DFD).png)
 
 ## DFD 圖0
 ![DFD0]()
