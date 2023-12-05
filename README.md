@@ -70,9 +70,9 @@ gantt
 ![](功能分解圖.png)
 
 ## Figma
-![](Figma1.jpg)
-![](Figma2.jpg)
-![](Figma3.jpg)
+![](Figma_1.jpg)
+![](Figma_2.jpg)
+![](Figma_3.jpg)
 
 ## 分鏡板-storyboard
 ![](分鏡圖1.jpg)
