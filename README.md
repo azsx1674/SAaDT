@@ -70,11 +70,11 @@ gantt
 ![](功能分解圖.png)
 
 ## [Figma_Prototype](https://www.figma.com/file/UHqBpmrJOUcXPbIb45tiTo/%E6%9F%94%E9%81%93%E7%A4%BE%E7%B6%B2%E9%A0%81?type=design&node-id=0-1&mode=design&t=V1VocfQlHoESOcLg-0)
-![](分鏡圖1.png)
-![](分鏡圖2.png)
-![](分鏡圖3.png)
-![](分鏡圖4.png)
-![](分鏡圖5.png)
+![](分鏡圖1.jpg)
+![](分鏡圖2.jpg)
+![](分鏡圖3.jpg)
+![](分鏡圖4.jpg)
+![](分鏡圖5.jpg)
 
 ## 需求分析的文字描述
 1. 可以進來瞭解社團的資訊
