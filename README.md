@@ -69,6 +69,11 @@ gantt
 ## 功能分解圖-Functional Decomposition Diagram
 ![](功能分解圖.png)
 
+## Figma
+![](Figma1.jpg)
+![](Figma2.jpg)
+![](Figma3.jpg)
+
 ## 分鏡板-storyboard
 ![](分鏡圖1.jpg)
 ![](分鏡圖2.jpg)
