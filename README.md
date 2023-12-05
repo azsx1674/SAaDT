@@ -74,6 +74,11 @@ gantt
 ![](Figma_2.jpg)
 ![](Figma_3.jpg)
 
+### 繪出UML 類別圖(class Diagram)
+![UML](UML.pn)
+
+---
+
 ## 分鏡板-storyboard
 ![](分鏡圖1.jpg)
 ![](分鏡圖2.jpg)
